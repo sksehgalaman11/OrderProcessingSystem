@@ -1,5 +1,5 @@
 # OrderProcessingSystem
-This Repository contains the Order Processing System solution and related projects . 
+This Repository contains the Order Processing System solution (OrderProcessingSystem.zip) and related projects . 
 Using the Factory Design patterns and basics of solid principles .
 Tried achieving maximum loosely coupling mechanism .
 Extension of the solution is also applied for future rules  
