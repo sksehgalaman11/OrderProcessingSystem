@@ -1,0 +1,4 @@
+The solution applied to this problem is using Factory Design pattern .
+Interface is created IOrderType
+Various types of products like books, physical product , video and membership added.
+Unit test updated .
